@@ -1,0 +1,14 @@
+# Fichiers Power BI volumineux
+*.pbix
+*.pbix.backup
+
+# Données locales
+data/
+sql/temp/
+*.xlsx
+
+# Python / VS Code
+__pycache__/
+*.ipynb_checkpoints
+.vscode/
+.env
